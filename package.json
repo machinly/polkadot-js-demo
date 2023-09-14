@@ -1,0 +1,16 @@
+{
+  "name": "polkadot-js-demo",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "repository": "git@github.com:machinly/polkadot-js-demo.git",
+  "author": "machinly <machinlyg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^10.9.1",
+    "@polkadot/types": "^10.9.1",
+    "web3": "^4.1.1"
+  },
+  "scripts": {
+    "start": "ts-node main.ts"
+  }
+}
